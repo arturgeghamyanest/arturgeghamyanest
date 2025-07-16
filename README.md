@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">🚀 Meet Artur - Full Stack JavaScript Magician 🔮</h1>
+<h1 align="center">🚀 A Full Stack JavaScript Magician 🔮</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif" width="200"/>
