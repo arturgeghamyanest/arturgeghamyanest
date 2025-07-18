@@ -4,11 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">🚀 A Full Stack JavaScript Magician 🔮</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif" width="200"/>
-</p>
+<h1 align="center">🚀 A Full Stack JavaScript Developer</h1>
 
 Hey there! I'm **Artur**, a Full Stack JavaScript developer who lives for clean code, chaotic ideas, and clever UI/UX. I build delightful digital experiences from scratch - with a touch of TypeScript and a *lot* of coffee ☕.
 
